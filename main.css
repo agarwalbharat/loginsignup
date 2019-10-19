@@ -18,7 +18,7 @@ body{
 #main{
   height: 400px;
   width: 450px;
-  background-color: white;
+  background-color: rgb(204,240,240);
   border-radius: 5px;
   position: absolute;
   top: 50%;
@@ -61,7 +61,7 @@ body{
   background-color: #41f477;
   font-family: monospace;
   font-size: 16px;
-  color: white;
+  color: rgb(240 , 240 , 240);
   border: none;
   outline: none;
   border-radius: 5px;
@@ -74,7 +74,7 @@ body{
   height: 35px;
   width: 120px;
   background-color: transparent;
-  color: white;
+  color: rgb(240 ,240 ,240);
   border:1px solid white;
   border-radius: 5px;
   outline: none;
